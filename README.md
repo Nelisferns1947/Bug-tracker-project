@@ -1,8 +1,8 @@
 <h1 align="center">Bug tracker</h1>
-> A simple bug tracking system built with Python. 
-> It is being created for CS 2300 Databases class, the bug tracker program allows users to create and manage development projects, and associate a number of tickets with each one. 
-> Tickets detail the progress/requirements for bugs and features within the project. 
-> The program is written in Python, using built-in Python tools for GUI (TKinter) and database (SQLite3) implementation.
+A simple bug tracking system built with Python. 
+It is being created for CS 2300 Databases class, the bug tracker program allows users to create and manage development projects, and associate a number of tickets with each one. 
+Tickets detail the progress/requirements for bugs and features within the project. 
+The program is written in Python, using built-in Python tools for GUI (TKinter) and database (SQLite3) implementation.
 
 ## Table of contents
 
