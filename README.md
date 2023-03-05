@@ -15,7 +15,7 @@ The program is written in Python, using built-in Python tools for GUI (TKinter) 
 ## Installation
 
 #### Setup 
-1. To install this program, simply clone this repository and run the Python file Bug_Tracker.py. 
+1. To install the program, simply clone the repository and run the Python file Bug_Tracker.py. 
 2. This will initialize a new local database instance, where program data will be stored. 
 3. As long as Python 2 or above is installed on your machine, the required dependencies will already be present.
 4. The home page is the first screen that appears when the Bug Tracker is launched. 
